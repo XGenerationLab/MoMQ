@@ -6,8 +6,7 @@ We will be releasing code related to MoMQ, an advanced multi-dialect SQL MOE mod
 
 
 ## Overview
-![](momq_pipeline.png.png)
-
+![](momq_pipeline.png)
 
 
 ## Introduction
